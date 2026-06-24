@@ -1,0 +1,7 @@
+name: "DEIMS Core"
+type: module
+description: "Provides core institute profile fields for DEIMS."
+package: "DEIMS"
+core_version_requirement: ^11 || ^12
+dependencies:
+  - drupal:system
