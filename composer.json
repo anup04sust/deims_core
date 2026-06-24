@@ -1,0 +1,23 @@
+{
+  "name": "anup04sust/deims_core",
+  "description": "Provides core institute profile settings for Drupal Education Institute Management System.",
+  "type": "drupal-module",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Anup Biswas",
+      "homepage": "https://github.com/anup04sust",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "source": "https://github.com/anup04sust/deims_core",
+    "issues": "https://github.com/anup04sust/deims_core/issues"
+  },
+  "require": {
+    "php": ">=8.3",
+    "drupal/core": "^11 || ^12"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
